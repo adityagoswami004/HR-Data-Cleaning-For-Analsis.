@@ -42,6 +42,6 @@ cd hr-data-cleaning
    
 pip install pandas numpy scikit-learn matplotlib seaborn
 
-4. Run the cleaning script
+3. Run the cleaning script
 
 python data_cleaning_pipeline.py
