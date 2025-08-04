@@ -16,7 +16,6 @@ The goal is to build a reproducible data cleaning pipeline that prepares this da
 ## 🛠️ What This Project Covers
 
 - Handling Missing Values (Imputation or Removal)
-- Removing Duplicates
 - Converting Data Types
 - Standardizing and Normalizing Numerical Features (like Age, Salary)
 - Encoding Categorical Variables
