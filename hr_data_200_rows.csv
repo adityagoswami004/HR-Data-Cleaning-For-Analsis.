@@ -1,0 +1,201 @@
+EmployeeID,Age,Department,Attrition,Salary,Experience,Education,Gender
+1001,29,Finance,Yes,not available,,Master's,Male
+1002,39,Marketing,No,not available,,,
+1003,36,Finance,Yes,33513,18.0,PhD,
+1004,abc,Marketing,Yes,not available,,,
+1005,56,Sales,Yes,49912,0.0,Bachelor's,
+1006,,Sales,No,46265,,High School,
+1007,24,Sales,No,,18.0,PhD,Male
+1008,27,IT,No,not available,,High School,Female
+1009,abc,Marketing,No,not available,14.0,Master's,Female
+1010,60,Sales,No,not available,,High School,Male
+1011,57,HR,Yes,,8.0,,
+1012,,Marketing,Yes,,40.0,Bachelor's,Female
+1013,,Marketing,No,not available,,High School,Female
+1014,,IT,No,,,Bachelor's,Female
+1015,22,Finance,Yes,not available,8.0,PhD,
+1016,,IT,No,not available,,PhD,Male
+1017,39,Sales,No,78502,26.0,,Female
+1018,,HR,Yes,79986,12.0,,Male
+1019,28,HR,No,70993,,,Female
+1020,46,Sales,No,not available,,Bachelor's,Male
+1021,,HR,No,35320,,Master's,
+1022,,IT,No,45719,,Master's,
+1023,abc,IT,Yes,66175,21.0,Master's,
+1024,abc,Sales,No,40258,29.0,PhD,Male
+1025,,HR,Yes,,9.0,PhD,
+1026,abc,Marketing,No,not available,,Master's,
+1027,abc,Finance,No,,,,Female
+1028,abc,Marketing,No,32139,,High School,Male
+1029,abc,IT,Yes,not available,34.0,Master's,Male
+1030,26,IT,No,not available,,High School,Female
+1031,,IT,No,,,Master's,
+1032,27,IT,No,not available,,High School,Female
+1033,,Finance,Yes,,6.0,,
+1034,,Sales,No,not available,30.0,PhD,Male
+1035,45,IT,Yes,not available,,Master's,
+1036,,HR,Yes,82684,39.0,Master's,Female
+1037,abc,Finance,No,57861,,,
+1038,abc,IT,Yes,65688,,Bachelor's,Female
+1039,abc,HR,Yes,72443,7.0,Master's,
+1040,abc,IT,No,,2.0,High School,Male
+1041,37,Sales,Yes,84174,,,Male
+1042,,Finance,No,34679,7.0,Bachelor's,Male
+1043,abc,Sales,Yes,,15.0,Master's,
+1044,57,Finance,Yes,not available,,Master's,Female
+1045,42,IT,No,not available,,PhD,Male
+1046,36,IT,No,,37.0,Bachelor's,Female
+1047,,Finance,No,,26.0,,Male
+1048,39,HR,Yes,,,High School,Male
+1049,abc,HR,No,,17.0,Master's,Male
+1050,42,IT,No,not available,23.0,,Male
+1051,,IT,No,,,PhD,Female
+1052,51,Sales,No,58688,,Master's,Female
+1053,38,IT,No,69192,,Bachelor's,
+1054,abc,Finance,No,,,,Female
+1055,abc,HR,No,,,High School,
+1056,abc,HR,Yes,,17.0,PhD,Female
+1057,,Sales,No,31695,,,Female
+1058,,HR,Yes,not available,5.0,Master's,Male
+1059,45,HR,Yes,not available,40.0,High School,
+1060,abc,Marketing,No,68477,,Master's,Male
+1061,53,Finance,Yes,not available,15.0,Master's,Female
+1062,25,Marketing,Yes,,36.0,Bachelor's,Female
+1063,abc,HR,Yes,67764,4.0,Bachelor's,Male
+1064,abc,Sales,Yes,80011,37.0,Master's,
+1065,abc,Sales,Yes,not available,,PhD,Female
+1066,,HR,Yes,,9.0,Bachelor's,Female
+1067,abc,IT,Yes,48229,17.0,Bachelor's,Male
+1068,abc,Marketing,Yes,,,Bachelor's,Female
+1069,abc,HR,Yes,,11.0,Bachelor's,Female
+1070,abc,Sales,Yes,,1.0,High School,Female
+1071,abc,Sales,No,,,Master's,
+1072,,Marketing,Yes,,,High School,Female
+1073,43,Finance,Yes,73917,1.0,,Female
+1074,,HR,No,86212,16.0,,Female
+1075,,HR,No,,,,Male
+1076,abc,Finance,No,,33.0,High School,Female
+1077,abc,Marketing,Yes,not available,,Master's,
+1078,abc,Marketing,Yes,not available,,,Female
+1079,abc,Sales,Yes,,32.0,Bachelor's,Female
+1080,abc,Finance,No,,28.0,,
+1081,abc,Marketing,Yes,,39.0,PhD,Female
+1082,34,IT,Yes,,,Bachelor's,Male
+1083,45,HR,No,not available,29.0,Bachelor's,
+1084,abc,Sales,No,84062,,Bachelor's,Female
+1085,abc,Finance,No,not available,,,Male
+1086,,Sales,Yes,,,Bachelor's,Female
+1087,23,Marketing,Yes,33552,28.0,PhD,
+1088,,Marketing,Yes,,,High School,Male
+1089,37,IT,Yes,,38.0,PhD,
+1090,abc,HR,No,,4.0,Master's,Female
+1091,27,Finance,Yes,79806,,Bachelor's,Female
+1092,53,Sales,Yes,,,PhD,Male
+1093,56,HR,No,65993,,,Male
+1094,abc,Marketing,No,,6.0,Master's,Female
+1095,abc,HR,No,not available,35.0,PhD,
+1096,,Sales,Yes,61766,,Bachelor's,Female
+1097,abc,HR,No,not available,,,Female
+1098,49,Marketing,Yes,69903,,Bachelor's,Female
+1099,abc,HR,No,76516,,Master's,
+1100,abc,Finance,No,not available,,PhD,
+1101,,HR,Yes,not available,,Bachelor's,Female
+1102,,Finance,No,56738,,Master's,Male
+1103,,HR,No,44725,,,
+1104,29,Marketing,No,60241,4.0,PhD,Female
+1105,36,IT,Yes,72448,5.0,PhD,Female
+1106,43,IT,No,not available,27.0,Master's,Female
+1107,abc,Finance,Yes,not available,23.0,PhD,Male
+1108,abc,Finance,No,,35.0,,
+1109,36,IT,No,,,,Female
+1110,abc,Marketing,No,60947,,PhD,
+1111,25,Marketing,No,not available,,Bachelor's,Female
+1112,26,HR,No,,,Bachelor's,Female
+1113,43,Finance,No,not available,,,
+1114,54,Marketing,Yes,not available,22.0,Bachelor's,Male
+1115,abc,Sales,Yes,87627,36.0,Master's,Male
+1116,53,HR,No,86624,,High School,
+1117,56,HR,No,,14.0,PhD,
+1118,abc,IT,Yes,not available,,Master's,Female
+1119,52,Finance,No,47509,,,Female
+1120,,Marketing,No,not available,36.0,High School,
+1121,34,Marketing,No,not available,27.0,,
+1122,abc,HR,Yes,not available,,High School,
+1123,,Finance,No,62089,1.0,Master's,Male
+1124,,Finance,No,not available,,High School,Male
+1125,abc,Finance,Yes,,,Bachelor's,Male
+1126,abc,IT,No,not available,0.0,Master's,
+1127,28,Marketing,Yes,not available,,PhD,
+1128,abc,Finance,No,,4.0,,Female
+1129,43,IT,No,51088,40.0,Bachelor's,Male
+1130,37,Sales,No,75711,5.0,PhD,Male
+1131,abc,HR,No,,,High School,Male
+1132,50,Marketing,No,,,Bachelor's,Male
+1133,49,Marketing,Yes,,,PhD,
+1134,,HR,Yes,,,Master's,Female
+1135,37,Sales,Yes,,36.0,High School,Female
+1136,abc,IT,Yes,not available,3.0,PhD,Female
+1137,28,HR,No,not available,10.0,High School,
+1138,56,IT,No,,,PhD,Male
+1139,27,IT,Yes,32426,,,
+1140,,IT,No,not available,,Master's,Male
+1141,,Sales,No,51757,,Bachelor's,
+1142,,Sales,No,,13.0,PhD,Female
+1143,25,IT,Yes,not available,,High School,Female
+1144,46,Finance,Yes,,,Master's,Female
+1145,,Marketing,No,not available,,Bachelor's,Female
+1146,,Sales,Yes,,,High School,Male
+1147,abc,Finance,No,not available,2.0,Master's,
+1148,abc,Finance,Yes,40116,25.0,High School,Male
+1149,53,Marketing,No,,0.0,Master's,
+1150,,IT,No,not available,19.0,Bachelor's,Female
+1151,35,Finance,No,,,Bachelor's,Female
+1152,abc,Finance,No,72587,,High School,Female
+1153,56,Finance,No,,7.0,Master's,
+1154,42,IT,No,not available,,PhD,Female
+1155,abc,IT,No,not available,11.0,Bachelor's,Male
+1156,abc,Sales,No,,24.0,PhD,Male
+1157,55,Sales,No,not available,,PhD,Male
+1158,abc,Finance,No,,,,
+1159,27,IT,No,not available,,High School,Male
+1160,abc,IT,Yes,not available,,High School,Female
+1161,abc,Marketing,Yes,34484,,High School,
+1162,,Finance,Yes,not available,,Master's,Female
+1163,abc,Sales,No,48833,,Bachelor's,
+1164,abc,Marketing,Yes,78940,,Bachelor's,Male
+1165,60,IT,Yes,58440,18.0,,Female
+1166,,Sales,Yes,not available,25.0,,Female
+1167,abc,Finance,Yes,76130,20.0,,
+1168,,IT,No,59076,,PhD,Female
+1169,38,Finance,No,,23.0,High School,Male
+1170,42,Marketing,No,89206,27.0,Master's,
+1171,,Marketing,Yes,,,Bachelor's,Female
+1172,abc,Marketing,Yes,82176,,Master's,
+1173,,HR,No,,33.0,High School,Female
+1174,42,Finance,Yes,,,High School,Male
+1175,,Marketing,No,39540,21.0,Bachelor's,Male
+1176,58,Marketing,Yes,,21.0,PhD,Male
+1177,abc,Finance,No,not available,4.0,,Male
+1178,abc,Marketing,Yes,81938,33.0,PhD,Female
+1179,38,Finance,Yes,41140,,High School,Male
+1180,44,IT,No,not available,9.0,High School,
+1181,,Finance,Yes,,6.0,PhD,Female
+1182,40,Finance,Yes,not available,16.0,,Male
+1183,abc,HR,No,,11.0,,
+1184,abc,IT,Yes,not available,4.0,High School,Female
+1185,55,HR,No,39379,,,
+1186,,Marketing,Yes,not available,,,Female
+1187,28,Finance,Yes,,,Bachelor's,
+1188,38,IT,No,not available,,Bachelor's,Male
+1189,abc,HR,No,,,Master's,
+1190,57,Finance,No,,,PhD,
+1191,,Sales,No,not available,,High School,Female
+1192,60,HR,No,40353,17.0,,Female
+1193,43,IT,Yes,,22.0,Master's,Male
+1194,abc,HR,Yes,,,Bachelor's,
+1195,,HR,No,,28.0,,
+1196,25,HR,No,,,PhD,
+1197,,Marketing,Yes,,18.0,Bachelor's,
+1198,24,Sales,Yes,,,High School,Male
+1199,43,IT,No,,29.0,,Female
+1200,38,IT,No,36989,28.0,Master's,
