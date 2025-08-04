@@ -25,7 +25,7 @@ The goal is to build a reproducible data cleaning pipeline that prepares this da
 | File | Description |
 |------|-------------|
 | `hr_data_200_rows.csv` | The raw HR dataset |
-| `Data_cleaning_pipeline.ipynb` | Python code for cleaning the HR raw data |
+| `Data_cleaning_pipeline.ipynb` | Python code for cleaning the data |
 | `hr_data_cleaned.csv` | Cleaned version of the dataset |
 | `data_cleaning_pipeline.py` | Python script for cleaning the data |
 | `README.md` | This file |
