@@ -31,3 +31,17 @@ The goal is to build a reproducible data cleaning pipeline that prepares this da
 | `data_cleaning_pipeline.py` | Python script for cleaning the data |
 | `README.md` | This file |
 
+## 🚀 How to Run
+
+1. Clone this repository  
+```bash
+git clone https://github.com/yourusername/hr-data-cleaning.git
+cd hr-data-cleaning
+
+2. Install dependencies
+
+pip install pandas numpy scikit-learn matplotlib seaborn
+
+3. Run the cleaning script
+
+python data_cleaning_pipeline.py
