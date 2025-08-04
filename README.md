@@ -20,3 +20,18 @@ The goal is to build a reproducible data cleaning pipeline that prepares this da
 - Converting Data Types
 - Standardizing and Normalizing Numerical Features (like Age, Salary)
 - Encoding Categorical Variables
+
+ ## 📁 Files in the Repository
+
+| File | Description |
+|------|-------------|
+| `hr_data_raw.csv` | The raw HR dataset |
+| `hr_data_cleaned.csv` | Cleaned version of the dataset |
+| `README.md` | This file |
+
+## 🚀 How to Run
+
+1. Clone this repository  
+```bash
+git clone https://github.com/yourusername/hr-data-cleaning.git
+cd hr-data-cleaning
