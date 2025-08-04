@@ -34,14 +34,14 @@ The goal is to build a reproducible data cleaning pipeline that prepares this da
 ## 🚀 How to Run
 
 1. Clone this repository  
-```bash
+
 git clone https://github.com/yourusername/hr-data-cleaning.git
 cd hr-data-cleaning
 
 2. Install dependencies
-
+   
 pip install pandas numpy scikit-learn matplotlib seaborn
 
-3. Run the cleaning script
+4. Run the cleaning script
 
 python data_cleaning_pipeline.py
