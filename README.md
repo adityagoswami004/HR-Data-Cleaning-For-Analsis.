@@ -44,3 +44,16 @@ pip install pandas numpy scikit-learn matplotlib seaborn
 3. Run the cleaning script
 
 python data_cleaning_pipeline.py
+
+## ✍️ Author
+
+Aditya Kumar,
+
+BSc Computer Science and Data Analytics
+IIT Patna.
+
+Passionate about ML, Data Science, and solving real-world problems through data.
+
+## 📄 License
+
+This project is open-source and available under the MIT License.
